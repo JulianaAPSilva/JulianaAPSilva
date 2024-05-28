@@ -1,16 +1,16 @@
-## Hi there 👋
+Boas vindas ao meu perfil :) 
 
-<!--
-**JulianaAPSilva/JulianaAPSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Juliana Silva
 
-Here are some ideas to get you started:
+Estou estudando na Alura
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Você pode entrar em contato comigo 📫
+
+juju.apsilva07@gmail.com
+
+@JulianaAPSilva
+
+![](![XOsX](https://github.com/JulianaAPSilva/JulianaAPSilva/assets/171044865/96c9cb10-9517-45b9-bdf9-d9b40dc08c18))
+
